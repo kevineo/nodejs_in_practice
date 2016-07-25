@@ -1,0 +1,11 @@
+{
+  "name": "first_project",
+  "version": "1.0.0",
+  "description": "Nodejs in action",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
